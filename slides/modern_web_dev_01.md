@@ -8,14 +8,14 @@ class: center middle
 # [FaceBook](https://www.facebook.com/kakimomokuri)
 
 ---
-layout: true
-.center[ モダンな開発手法・環境を使った実践的なWebアプリケーション開発を学ぶ 第１回 ]
-
 # 構成
 
 1. コンセプト
 
 ---
+layout: true
+.center[ モダンな開発手法・環境を使った実践的なWebアプリケーション開発を学ぶ 第１回 ]
+
 # コンセプト
 
 + 実践的内容
