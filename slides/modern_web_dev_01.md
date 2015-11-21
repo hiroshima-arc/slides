@@ -1,5 +1,5 @@
 class: center middle
-# モダンな開発手法・環境を使った実践的なWebアプリケーション開発を学ぶ 第１回
+# モダンな開発手法・環境を使った実践的なWebアプリケーション開発を学ぶ
 
 ---
 class: center middle
@@ -14,7 +14,7 @@ class: center middle
 
 ---
 layout: true
-.center[ モダンな開発手法・環境を使った実践的なWebアプリケーション開発を学ぶ 第１回 ]
+.center[ モダンな開発手法・環境を使った実践的なWebアプリケーション開発を学ぶ ]
 
 ---
 # コンセプト
