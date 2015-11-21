@@ -16,6 +16,7 @@ class: center middle
 layout: true
 .center[ モダンな開発手法・環境を使った実践的なWebアプリケーション開発を学ぶ 第１回 ]
 
+---
 # コンセプト
 
 + 実践的内容
