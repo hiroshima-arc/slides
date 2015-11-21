@@ -24,6 +24,7 @@
 - [remark.js ことはじめ](http://hiroshima-arc.github.io/slides/?remarkjs.md)
     - remark.js における markdown の書き方を簡単に解説
 - [モダンな開発手法・環境を使った実践的なWebアプリケーション開発を学ぶ 第１回](http://hiroshima-arc.github.io/slides/?modern_web_dev_01.md)
+    - 第１回概要解説
 
 # 参照 #
 - [markdown + remark.js + gh-pages でプレゼン資料を公開する](http://qiita.com/harasou/items/1fa3cca6ac1ef175c876)
