@@ -45,4 +45,3 @@ layout: true
      + OSの制約をなくす(WindowsでもMacでもOK)
      + 仮想マシンの実践的活用
      + Infrastructure as Codeの実践
----     
