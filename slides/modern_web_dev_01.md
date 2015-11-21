@@ -6,17 +6,16 @@ class: center middle
 # カキギカツユキ
 # [Twitter](https://twitter.com/k2works)  
 # [FaceBook](https://www.facebook.com/kakimomokuri)
----
 
 ---
 layout: true
 .center[ モダンな開発手法・環境を使った実践的なWebアプリケーション開発を学ぶ 第１回 ]
----
 
 # 構成
 
 1. コンセプト
 
+---
 # コンセプト
 
 + 実践的内容
@@ -31,6 +30,7 @@ layout: true
     + DevOpsを実現する各種ツール・サービスを実際に活用
     + 企画・開発・運用・マネジメントの統合
 
+---
 # コンセプト-シンプルな原則
 
 + 一つのことをうまくやろう
